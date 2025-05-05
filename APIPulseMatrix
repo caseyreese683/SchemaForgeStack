@@ -1,0 +1,23 @@
+
+---
+
+### **2. 24_APIPulseMatrix**  
+**Description:**  
+Monitors multiple APIs in a matrix-style setup to track response pulses, delays, and outage bursts.
+
+#### **README.md**
+```markdown
+# APIPulseMatrix - Multi-Endpoint Health Monitor
+
+APIPulseMatrix visualizes API performance trends, drift, and status irregularities across large clusters.
+
+## Features
+- Matrix configuration  
+- JSON / CSV output  
+- Realtime latency pulse tracking  
+
+## Usage
+```bash
+git clone https://github.com/your-username/24_APIPulseMatrix.git
+cd 24_APIPulseMatrix
+python monitor.py
