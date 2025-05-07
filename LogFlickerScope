@@ -1,0 +1,23 @@
+
+---
+
+### **3. 24_LogFlickerScope**  
+**Description:**  
+Analyzes logs to detect flickering bursts, echo repetition, and anomaly clusters over time.
+
+#### **README.md**
+```markdown
+# LogFlickerScope - Temporal Log Pattern Analyzer
+
+LogFlickerScope highlights unstable repetition patterns and bursty behavior hidden in your logs.
+
+## Features
+- Burst/flicker detection  
+- Heatmap timeline  
+- CLI keyword filters  
+
+## Usage
+```bash
+git clone https://github.com/your-username/24_LogFlickerScope.git
+cd 24_LogFlickerScope
+python analyze.py
